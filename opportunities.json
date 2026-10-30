@@ -1,1114 +1,7 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "source": "Données Québec / SEAO",
   "items": [
-    {
-      "id": "ocds-ec9k95-20141478",
-      "title": "Ameublement administratif",
-      "buyer": "Centre d'acquisitions gouvernementales",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20144806",
-      "title": "Réalisation des travaux généraux pour la mise à jour des caméras - 500, rue de la Faune, Québec (Québec) G1G 0G9",
-      "buyer": "Société québécoise des infrastructures",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20144986",
-      "title": "Développement Phase III - Parc Jean-Noël-Tessier",
-      "buyer": "Ville de Baie-Comeau",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20154361",
-      "title": "5320-26-AP01 - Contrat à commandes pour l’acquisition de forfaits, routeurs et antennes cellulaires pour la Direction des technologies opérationnelles et des télécom.",
-      "buyer": "Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)",
-      "region": "",
-      "sector": "Informatique",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20160783",
-      "title": "Achats de Véhicules légers",
-      "buyer": "Centre d'acquisitions gouvernementales",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20162027",
-      "title": "Soutien des infrastructures technologiques et applicatives",
-      "buyer": "Ministère de l'Éducation",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20162614",
-      "title": "Analyseurs d'hémocultures",
-      "buyer": "Santé Québec Mauricie-et-Centre-du-Québec – Universitaire",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20162871",
-      "title": "RÉFECTION DE LA TOITURE DE L’USINE DE TRAITEMENT DES EAUX",
-      "buyer": "Municipalité de Saint-Jean-Port-Joli",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20163016",
-      "title": "Partenariat en vue de la conception, la construction, le financement et l’opération des nouveaux ateliers municipaux",
-      "buyer": "Ville de Mascouche.",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20163460",
-      "title": "Travaux de réfection de la chaufferie du Pavillon J",
-      "buyer": "Cégep Vanier College.",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20164694",
-      "title": "Réaménagement majeur d’un bâtiment au 20, boulevard Comeau, Baie-Comeau (Québec) G4Z 3A8",
-      "buyer": "Société québécoise des infrastructures",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20165376",
-      "title": "Confection et achat de vêtements pour le personnel policier et pour certains membres du personnel civil (2026-2029)",
-      "buyer": "Régie intermunicipale de police Thérèse-de-Blainville",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20165708",
-      "title": "ABP-11515 – Alimentation d’urgence ABP",
-      "buyer": "Université Laval",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20166450",
-      "title": "9005-25-AP01 - Contrat à commandes pour une solution infonuagique permettant la gestion des opérations aériennes pour la Direction générale du service aérien gouvernemental",
-      "buyer": "Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20166839",
-      "title": "Fourniture de deux camions dix roues avec équipements",
-      "buyer": "Ville de Montréal-Ouest",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20167234",
-      "title": "Acquisition des produits du regroupement 1 en lien avec le décret 54-2026 (Objectifs légitimes)",
-      "buyer": "Ministère de la Cybersécurité et du Numérique - Direction générale des services contractuels",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20168824",
-      "title": "Stade Canac - Rénovation de l’enveloppe, agrandissement et améliorations locatives",
-      "buyer": "Ville de Québec",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20168883",
-      "title": "Construction du Centre de formation horticole (bâtiment et serre) du Centre Frère-Moffet de Ville-Marie",
-      "buyer": "Centre de services scolaire du Lac-Témiscamingue",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20169161",
-      "title": "PLATEAUX DIVERS ET SPÉCIALISÉS",
-      "buyer": "Centre d'acquisitions gouvernementales",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20169252",
-      "title": "Services professionnels d’ingénieurs-conseils – Réaménagement de l’intersection du boulevard de Lucerne et du chemin Rivermead",
-      "buyer": "Ville de Gatineau.",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20169314",
-      "title": "Service de gestion et d’opération du Centre sportif Pays-d’en-Haut",
-      "buyer": "MRC des Pays-d'en-Haut",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20169477",
-      "title": "Travaux correctifs à l'usine de biométhanisation",
-      "buyer": "Régie d'assainissement des Eaux de la Vallée du Richelieu",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20169558",
-      "title": "Acquisition de camions arboricoles avec benne basculante et nacelle",
-      "buyer": "Ville de Laval",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20169845",
-      "title": "Services professionnels en architecture de paysage, en ingénierie et autres disciplines connexes à l’aménagement, pour les projets de la division de l’aménagement des espaces riverains",
-      "buyer": "Ville de Montréal - Service de l'approvisionnement",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20170020",
-      "title": "Services professionnels d'architecture de paysage et d'ingénierie pour la conception et la surveillance des aménagements extérieurs du site du chalet d'accueil au parc métropolitain du Domaine-Seigneurial-de-Mascouche",
-      "buyer": "Ville de Mascouche.",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20170732",
-      "title": "Services professionnels pour la réalisation d’une étude préparatoire pour le remplacement du poste de pompage d’eau brute Memphrémagog",
-      "buyer": "Ville de Sherbrooke",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20170785",
-      "title": "Services professionnels pour la gestion, la surveillance et le support technique pendant les travaux de construction du collecteur industriel dans la ville de Montréal-Est",
-      "buyer": "Ville de Montréal - Service de l'approvisionnement",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20170848",
-      "title": "Services professionnels pour l’augmentation de la capacité et l’amélioration de la station de traitement des eaux usées",
-      "buyer": "Ville Saint-Rémi",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20171054",
-      "title": "Entente-cadre pour des services professionnels pour la réalisation de comptages et de relevés de circulation sur le réseau routier de la Ville de Laval",
-      "buyer": "Ville de Laval",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20171123",
-      "title": "Hôtel de ville de Sainte-Anne-des-Plaines remplacement de la chaudière",
-      "buyer": "Ville de Sainte-Anne-des-Plaines.",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20171395",
-      "title": "Ventilation - HCM",
-      "buyer": "Casiloc inc",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20171412",
-      "title": "ÉLECTRICITÉ-ALARME-INCENDIE-TÉLÉCOMMUNICATION-SÉCURITÉ - HCM",
-      "buyer": "Casiloc inc",
-      "region": "",
-      "sector": "Électricité",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20171413",
-      "title": "Acquisition d'un serveur de calcul avec GPU",
-      "buyer": "Université Laval",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20171590",
-      "title": "Lot 3101 – Excavation et travaux civils - Hôpital Charles-Le Moyne – Bloc opératoire et chirurgie d’un jour – Agrandissement et réaménagement (Module clinique transitoire)  au 2924, boulevard Taschereau, Longueuil (Québec) J4V 2G8",
-      "buyer": "Société québécoise des infrastructures",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20171605",
-      "title": "Travaux de restauration du bâtiment patrimonial de l'ancienne Chaufferie Fortissimo et sa cheminée",
-      "buyer": "Ville de Drummondville.",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20171686",
-      "title": "Contrat n° 2026-900 « DÉMOLITION ET CONSTRUCTION DE NOUVELLES CHAMBRES DES JOUEURS DE L’ARÉNA DENIS-PERRON »",
-      "buyer": "Municipalité Havre-Saint-Pierre",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20171797",
-      "title": "Collecte et transport des ordures ménagères",
-      "buyer": "Municipalité de Yamachiche",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172007",
-      "title": "COLLECTE ET TRANSPORT DES MATIÈRES RECYCLABLES",
-      "buyer": "Ville de Saguenay",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172041",
-      "title": "Solution de gestion intégrée des documents",
-      "buyer": "Le Ministère du Conseil exécutif",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172465",
-      "title": "Acquisition d’un camion de déneigement neuf",
-      "buyer": "Municipalité de Saint-Cyprien-de-Napierville",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172482",
-      "title": "8609-26-AP02 - Acquisition de luminaires au DEL sur le réseau de la DGM",
-      "buyer": "Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172605",
-      "title": "Service de remorquage pour 1 an avec 2 années d’option",
-      "buyer": "Ville de Salaberry-de-Valleyfield",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172830",
-      "title": "Travaux de réfection des caniveaux du garage #1 des Travaux publics de l'arrondissement de Pierrefonds-Roxboro",
-      "buyer": "Ville de Montréal - Arrondissement de Pierrefonds-Roxboro",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172847",
-      "title": "Travaux de remplacement de branchements d’eau en plomb et de voirie (réhabilitation) dans diverses rues de la Ville de Montréal dans les arrondissements de CDN, LSO, OUT et VER",
-      "buyer": "Ville de Montréal / SIRR - Service des infrastructures du réseau routier",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172867",
-      "title": "Location d'une presse numérique monochrome à haut volume",
-      "buyer": "Ville de Québec",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172906",
-      "title": "Réno Fen+mur-rideau - 624_Pavillon principal - St-Hyacinthe",
-      "buyer": "Université de Montréal - Direction des immeubles",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172921",
-      "title": "Approvisionnement en produits pétroliers pour les années 2027, 2028 et 2029",
-      "buyer": "Valoris",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172975",
-      "title": "Services professionnels en gestion de projets",
-      "buyer": "Université Concordia",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173032",
-      "title": "Mise aux normes de feux de circulation à l'intersection Mtée St-Hubert - Boul. Maricourt - Boul. Kimber",
-      "buyer": "Ville de Longueuil",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173043",
-      "title": "Acquisition de deux (2) pompes d'urgence",
-      "buyer": "Ville de Saint-Constant.",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173065",
-      "title": "Remplacement des unités de traitement d'air A-6, A-7 et A-8 au Centre d'hébergement et de réadaptation en déficience intellectuelle et en trouble du spectre de l'autisme Laflèche",
-      "buyer": "Santé Québec Mauricie-et-Centre-du-Québec – Universitaire",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173200",
-      "title": "Construction d'une plaine de débordement - Rue des Pins",
-      "buyer": "Ville de Saint-Constant.",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173289",
-      "title": "Service de gardiennage pour l’arrondissement de Saint-Léonard",
-      "buyer": "Ville de Montréal - Service de l'approvisionnement",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173322",
-      "title": "Programme d'aide aux employés",
-      "buyer": "Commission Scolaire English-Montreal",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173497",
-      "title": "Réaménagement aile 450 à L'Hôtel-Dieu de Québec de Santé Québec - CHU de Québec - Université Laval",
-      "buyer": "Soutien aux opérations de la DST",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173549",
-      "title": "Acquisition d'une (1) chargeuse sur roues",
-      "buyer": "Régie régionale de gestion des matières résiduelles de Portneuf",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173736",
-      "title": "Fourniture et livraison d’anthracite et sable de filtration",
-      "buyer": "Ville de Longueuil",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173771",
-      "title": "Services professionnels en Architecture_55745 – Construction du Pôle et du Refuge animalier",
-      "buyer": "Université de Montréal - Direction des immeubles",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173885",
-      "title": "Technologie RFID – Bibliothèque Georgette-Lepage - Travaux d’aménagement du rez-de-chaussée et de l’étage",
-      "buyer": "Ville de Brossard",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173908",
-      "title": "Renouvellement du parc d’équipement en électrocardiographie pour tous les sites",
-      "buyer": "Santé Québec - Centre universitaire de santé McGill",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173965",
-      "title": "Travaux de remplacement de l’émissaire Archambault",
-      "buyer": "Ville de Repentigny.",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174115",
-      "title": "PRÉPARATION DE PLANS ET DEVIS, ACCOMPAGNEMENT DURANT LES PHASES D'APPEL D'OFFRES ET DE CONSTRUCTION ET SURVEILLANCE DES TRAVAUX DE REMPLACEMENT DES INSTALLATIONS FERROVIAIRES DU GARAGE VAUDREUIL",
-      "buyer": "Réseau de Transport Métropolitain (EXO)",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174193",
-      "title": "Remplacement du système de détection incendie et des appareils d’éclairage",
-      "buyer": "Centre de services scolaire du Val-des-Cerfs.",
-      "region": "",
-      "sector": "Électricité",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174266",
-      "title": "Remplacement génératrice - Hôpital Chicoutimi",
-      "buyer": "Santé Québec Saguenay–Lac-Saint-Jean – Universitaire",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174282",
-      "title": "Construction de la nouvelle piste cyclable SPIPB (secteur est)",
-      "buyer": "Société du Parc Industriel et Portuaire de Bécancour.",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174349",
-      "title": "Acquisition sur commandes de matériaux de construction – Bois de charpente",
-      "buyer": "Centre de services scolaire des Grandes Seigneuries",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174559",
-      "title": "Ajout de stockage NetApp",
-      "buyer": "Santé Québec - CHU Sainte-Justine",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174630",
-      "title": "Travaux de réfection des dalles de béton et des caniveaux aux Centres d’exploitation de Saint-Hubert et du Vieux Longueuil",
-      "buyer": "Réseau de transport de Longueuil",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174642",
-      "title": "Réfection du Hall d'entrée et intégrité coupe-feu, pavillon 5, niveau 3",
-      "buyer": "CÉGEP Sherbrooke",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174661",
-      "title": "Location et cueillette de conteneurs",
-      "buyer": "Ville de Mercier",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174848",
-      "title": "EPS-10306_Remplacement des rideaux séparateurs et de la surface sportive",
-      "buyer": "Université Laval",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174938",
-      "title": "Travaux d'aménagement d’un vestiaire pour VPI à la caserne 23",
-      "buyer": "Ville de Longueuil",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174973",
-      "title": "Fourniture et livraison de papier blanc à usages multiples",
-      "buyer": "Ville de Longueuil",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175437",
-      "title": "Fourniture, livraison et disposition de divers matériaux granulaires pour les années 2027, 2028 et 2029 avec option de renouvellement pour les années 2030 et 2031",
-      "buyer": "Ville de Rigaud",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175456",
-      "title": "Service de transport et de récupération de matières résiduelles de façon écoresponsable",
-      "buyer": "Ministère des Ressources naturelles et des Forêts",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175457",
-      "title": "Travaux d'optimisation et de réaménagement du sous-sol et de la salle de musique de Stewart Hall",
-      "buyer": "Ville de Pointe-Claire.",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175469",
-      "title": "Service de location de conteneurs et de transport de résidus des dégrilleurs, dessableurs et décanteurs",
-      "buyer": "Ville de Granby",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175616",
-      "title": "Installation de compteurs d’eau résidentiels, antennes et mise en marche -volet 02",
-      "buyer": "Ville de Beaconsfield",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175667",
-      "title": "Services professionnels en architecture - Agrandissement CURAL",
-      "buyer": "Université du Québec à Chicoutimi .",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175721",
-      "title": "Services professionnels en ingénierie - Agrandissement CURAL",
-      "buyer": "Université du Québec à Chicoutimi .",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175728",
-      "title": "REMPLACEMENT INFRASTRUCTURES ET AJOUT AQUEDUC",
-      "buyer": "Municipalité de Stanbridge Station",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175742",
-      "title": "Services professionnels de consultation - Programme d’aide aux employés (PAE) et interventions à la suite d'un évènement potentiellement traumatique",
-      "buyer": "Ville de Trois-Rivières",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20176224",
-      "title": "RÉAMÉNAGEMENT DE LA SALLE DU CONSEIL",
-      "buyer": "Municipalité des Cèdres",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172871",
-      "title": "Acquisition de gravier pour le Ministère des Ressources naturelles et des Forêts",
-      "buyer": "Ministère des Ressources naturelles et des Forêts",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20176298",
-      "title": "SRM_Entretien et appels de service en électricité_Exécution sur demande",
-      "buyer": "Centre de services scolaire des Navigateurs",
-      "region": "",
-      "sector": "Électricité",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20151541",
-      "title": "AM14- Acquisition de portes à enroulements",
-      "buyer": "Société de transport de Montréal",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20157600",
-      "title": "Services de denturologie au Nunavik",
-      "buyer": "Régie régionale de la santé et des services sociaux du Nunavik",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20169662",
-      "title": "Travaux de réhabilitation de conduites d'égout par chemisage dans diverses rues de la ville de Montréal dans les arrondissements de ANJ, MHM, RPP et STL",
-      "buyer": "Ville de Montréal / SIRR - Service des infrastructures du réseau routier",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20170002",
-      "title": "FOURNITURES DE SOINS DE PLAIES",
-      "buyer": "Corporation d'urgences-santé",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20170490",
-      "title": "Acquisition de visserie diverses",
-      "buyer": "Société de transport de Montréal",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20170949",
-      "title": "Installation du système de soude caustique à l'usine d'eau potable de Pierrefonds",
-      "buyer": "Ville de Montréal - Service de l'Eau",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20171367",
-      "title": "Plomberie-Chauffage-Refroidissement",
-      "buyer": "Casiloc inc",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172331",
-      "title": "Entretien ménager Conservatoire de musique de Saguenay",
-      "buyer": "SQI-Direction immobilière Saguenay-Lac-Saint-Jean, Côte-Nord",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172596",
-      "title": "Acquisition de solutions d’alcool type conditionnées en caisses de six (6) flacons",
-      "buyer": "Sûreté du Québec",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173112",
-      "title": "Services professionnels de laboratoire – Contrôle qualitatif des matériaux – Collecteur pluvial, boulevard Saint-Joseph",
-      "buyer": "Ville de Gatineau.",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175686",
-      "title": "Service de transport de passagers par autobus pour les camps de jour 2027-2028",
-      "buyer": "Ville de Brossard",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173949",
-      "title": "Services professionnels - Consolidation des infrastructures de la rue Jean-Charles-Cantin et bouclage des réseaux d’eau potable à l’intersection des rues Saint-Félix et des Grandes-Marées (PSP186104)",
-      "buyer": "Ville de Québec",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174505",
-      "title": "Service d'arrosage d'arbres, de saillies et de plates-bandes pour l'arrondissement du Plateau-Mont-Royal",
-      "buyer": "Ville de Montréal - Service de l'approvisionnement",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175096",
-      "title": "Financement par crédit-bail d’un camion 10 roues",
-      "buyer": "Municipalité de Godmanchester.",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175210",
-      "title": "Acquisition de toiles et ombrières pour tunnels pour la pépinière forestière de Normandin",
-      "buyer": "Ministère des Ressources naturelles et des Forêts",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175270",
-      "title": "Services de gestion parasitaire",
-      "buyer": "Université du Québec (Siège social)",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175288",
-      "title": "Location logement 3½ pour professionnels Malartic",
-      "buyer": "Santé Québec Abitibi-Témiscamingue",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175468",
-      "title": "Services sur demande d'entretien, de réparation, de déneigement et de déglaçage des toitures des bâtiments municipaux pour 2027 et 2028, avec option de renouvellement pour 2029",
-      "buyer": "Ville de Mascouche.",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175502",
-      "title": "Services d'impression du bulletin municipal et du cahier des loisirs pour 2027 à 2029, avec une option de renouvellement d'une durée de deux ans pour 2030 et 2031",
-      "buyer": "Ville de Mascouche.",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20175511",
-      "title": "Fourniture et livraison de produits chimiques pour les piscines",
-      "buyer": "Ville de Granby",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20164260",
-      "title": "6514-25-0901 - Réaménagement de la route 293 dans les municipalités de NOtre-Dame-des-Neiges et de Trois-Pistoles (Direction générale du Bas-Saint-Laurent-Gaspésie-Îles-de-la-Madeleine).",
-      "buyer": "Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20164685",
-      "title": "Service d'inspection et d'entretien correctif des systèmes de protection incendie",
-      "buyer": "Université Concordia",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172412",
-      "title": "CONTRÔLE DES INSECTES PIQUEURS 2027-2028-2029",
-      "buyer": "Municipalité de Brébeuf.",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173313",
-      "title": "Services professionnels en ingénierie et architecture - Surveillance des travaux de construction des lots 4, 5 et 6 du Projet Désinfection de la Station Jean-R. – Marcotte. - Service de l'eau",
-      "buyer": "Ville de Montréal - Service de l'approvisionnement",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173623",
-      "title": "Services actuariels - Évaluation de la provision pour pertes sur garanties de prêts et de la provision pour moins-values",
-      "buyer": "Société d'Habitation du Québec",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172800",
-      "title": "VIDANGE, TRANSPORT ET DISPOSITION DES BOUES  DES FOSSES SEPTIQUES DU SECTEUR MOULIN-MORGAN",
-      "buyer": "Municipalité de Saint-Adolphe-d'Howard.",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173338",
-      "title": "Déneigement des toitures - Divers immeubles de la ville de Rouyn-Noranda",
-      "buyer": "SQI-Direction immobilière Abitibi-Témiscamingue, Nord-du-Québec",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173624",
-      "title": "Confection pantalons pour les officiers(ères).",
-      "buyer": "Sûreté du Québec",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173681",
-      "title": "Fourniture et la livraison d’une chargeuse articulée sur roues, 4 x 4, d’une capacité minimale de 3.5 Vg³",
-      "buyer": "Ville de Lévis.",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173724",
-      "title": "3207-26-ZX03 - Fournir les services professionnels de conseiller en assurances et garanties financières pour le projet de réfection majeure des tunnels Ville-Marie et Viger (Montréal)",
-      "buyer": "Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173791",
-      "title": "Vidange de fosses septiques ou de rétention 2027-2028-2029",
-      "buyer": "Municipalité de Saint-Marc-de-Figuery",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173811",
-      "title": "26-529 (GP) Fourniture et travaux sur demande de câblage informatique",
-      "buyer": "Loto-Québec .",
-      "region": "",
-      "sector": "Construction",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20173903",
-      "title": "Déneigement des toitures - Divers immeubles de la ville d’Amos",
-      "buyer": "SQI-Direction immobilière Abitibi-Témiscamingue, Nord-du-Québec",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174141",
-      "title": "Service d'entretien préventif et correctif des feux de circulation et des clignotants",
-      "buyer": "Ville de Longueuil",
-      "region": "",
-      "sector": "Services",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20174421",
-      "title": "Machines à découper des clés",
-      "buyer": "Sûreté du Québec",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20161415",
-      "title": "Achat regroupé pour l'acquisition de pièces électriques et électroniques pour autobus urbains",
-      "buyer": "Société de transport de Montréal",
-      "region": "",
-      "sector": "Électricité",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20164473",
-      "title": "PSL de Granby",
-      "buyer": "Santé Québec Estrie - Centre hospitalier universitaire de Sherbrooke",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
-    {
-      "id": "ocds-ec9k95-20172811",
-      "title": "Enlèvement et transport des ordures",
-      "buyer": "Municipalité de Sainte-Hénédine",
-      "region": "",
-      "sector": "Autres",
-      "deadline": "2026-10-29",
-      "url": ""
-    },
     {
       "id": "ocds-ec9k95-20153665",
       "title": "Services professionnels en ingénierie pour la reconstruction des infrastructures souterraines et de surface de l'avenue Pratte et de la rue Blanchet",
@@ -1133,6 +26,15 @@
       "buyer": "Cégep de Rimouski",
       "region": "",
       "sector": "Autres",
+      "deadline": "2026-10-30",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20171605",
+      "title": "Travaux de restauration du bâtiment patrimonial de l'ancienne Chaufferie Fortissimo et sa cheminée",
+      "buyer": "Ville de Drummondville.",
+      "region": "",
+      "sector": "Construction",
       "deadline": "2026-10-30",
       "url": ""
     },
@@ -1281,6 +183,15 @@
       "url": ""
     },
     {
+      "id": "ocds-ec9k95-20174266",
+      "title": "Remplacement génératrice - Hôpital Chicoutimi",
+      "buyer": "Santé Québec Saguenay–Lac-Saint-Jean – Universitaire",
+      "region": "",
+      "sector": "Autres",
+      "deadline": "2026-10-30",
+      "url": ""
+    },
+    {
       "id": "ocds-ec9k95-20174306",
       "title": "AMÉNAGEMENT DE SITES SECTEURS P1N ET P1B – 793- 3800 SHERBROOKE EST",
       "buyer": "Collège de Maisonneuve",
@@ -1322,6 +233,15 @@
       "buyer": "Centre de services Scolaire des Phares.",
       "region": "",
       "sector": "Services",
+      "deadline": "2026-10-30",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20175457",
+      "title": "Travaux d'optimisation et de réaménagement du sous-sol et de la salle de musique de Stewart Hall",
+      "buyer": "Ville de Pointe-Claire.",
+      "region": "",
+      "sector": "Construction",
       "deadline": "2026-10-30",
       "url": ""
     },
@@ -1902,6 +822,15 @@
       "url": ""
     },
     {
+      "id": "ocds-ec9k95-20176224",
+      "title": "RÉAMÉNAGEMENT DE LA SALLE DU CONSEIL",
+      "buyer": "Municipalité des Cèdres",
+      "region": "",
+      "sector": "Autres",
+      "deadline": "2026-11-02",
+      "url": ""
+    },
+    {
       "id": "ocds-ec9k95-20176815",
       "title": "Achat d'une pelle sur pneus",
       "buyer": "Ville de L'Île-Perrot",
@@ -2472,6 +1401,15 @@
       "id": "ocds-ec9k95-20172603",
       "title": "Mise à niveau de la piscine et des infrastructures associées au Centre sportif",
       "buyer": "Université du Québec à Montréal",
+      "region": "",
+      "sector": "Autres",
+      "deadline": "2026-11-03",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20173065",
+      "title": "Remplacement des unités de traitement d'air A-6, A-7 et A-8 au Centre d'hébergement et de réadaptation en déficience intellectuelle et en trouble du spectre de l'autisme Laflèche",
+      "buyer": "Santé Québec Mauricie-et-Centre-du-Québec – Universitaire",
       "region": "",
       "sector": "Autres",
       "deadline": "2026-11-03",
@@ -3738,6 +2676,24 @@
       "url": ""
     },
     {
+      "id": "ocds-ec9k95-20144806",
+      "title": "Réalisation des travaux généraux pour la mise à jour des caméras - 500, rue de la Faune, Québec (Québec) G1G 0G9",
+      "buyer": "Société québécoise des infrastructures",
+      "region": "",
+      "sector": "Construction",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20144986",
+      "title": "Développement Phase III - Parc Jean-Noël-Tessier",
+      "buyer": "Ville de Baie-Comeau",
+      "region": "",
+      "sector": "Autres",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
       "id": "ocds-ec9k95-20163605",
       "title": "Achat regroupé pour l'acquisition de pièces de ventilation, chauffage et climatisation pour autobus urbains (ATUQ)",
       "buyer": "Réseau de transport de la Capitale.",
@@ -3747,11 +2703,56 @@
       "url": ""
     },
     {
+      "id": "ocds-ec9k95-20164694",
+      "title": "Réaménagement majeur d’un bâtiment au 20, boulevard Comeau, Baie-Comeau (Québec) G4Z 3A8",
+      "buyer": "Société québécoise des infrastructures",
+      "region": "",
+      "sector": "Construction",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
       "id": "ocds-ec9k95-20166786",
       "title": "Mise à niveau et mise aux normes du réservoir et des installations de distribution d'eau potable",
       "buyer": "Municipalité de Sainte-Martine.",
       "region": "",
       "sector": "Autres",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20168824",
+      "title": "Stade Canac - Rénovation de l’enveloppe, agrandissement et améliorations locatives",
+      "buyer": "Ville de Québec",
+      "region": "",
+      "sector": "Construction",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20169558",
+      "title": "Acquisition de camions arboricoles avec benne basculante et nacelle",
+      "buyer": "Ville de Laval",
+      "region": "",
+      "sector": "Autres",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20170020",
+      "title": "Services professionnels d'architecture de paysage et d'ingénierie pour la conception et la surveillance des aménagements extérieurs du site du chalet d'accueil au parc métropolitain du Domaine-Seigneurial-de-Mascouche",
+      "buyer": "Ville de Mascouche.",
+      "region": "",
+      "sector": "Services",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20170785",
+      "title": "Services professionnels pour la gestion, la surveillance et le support technique pendant les travaux de construction du collecteur industriel dans la ville de Montréal-Est",
+      "buyer": "Ville de Montréal - Service de l'approvisionnement",
+      "region": "",
+      "sector": "Construction",
       "deadline": "2026-11-05",
       "url": ""
     },
@@ -3855,11 +2856,38 @@
       "url": ""
     },
     {
+      "id": "ocds-ec9k95-20173736",
+      "title": "Fourniture et livraison d’anthracite et sable de filtration",
+      "buyer": "Ville de Longueuil",
+      "region": "",
+      "sector": "Autres",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20173771",
+      "title": "Services professionnels en Architecture_55745 – Construction du Pôle et du Refuge animalier",
+      "buyer": "Université de Montréal - Direction des immeubles",
+      "region": "",
+      "sector": "Construction",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
       "id": "ocds-ec9k95-20173799",
       "title": "Éclairage des passages piétonniers secteur C, parc des citoyens et passerelle petit rang Saint-Régis Sud",
       "buyer": "Ville de Saint-Constant.",
       "region": "",
       "sector": "Électricité",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20173885",
+      "title": "Technologie RFID – Bibliothèque Georgette-Lepage - Travaux d’aménagement du rez-de-chaussée et de l’étage",
+      "buyer": "Ville de Brossard",
+      "region": "",
+      "sector": "Construction",
       "deadline": "2026-11-05",
       "url": ""
     },
@@ -3887,6 +2915,15 @@
       "buyer": "Ville de Longueuil",
       "region": "",
       "sector": "Services",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20174630",
+      "title": "Travaux de réfection des dalles de béton et des caniveaux aux Centres d’exploitation de Saint-Hubert et du Vieux Longueuil",
+      "buyer": "Réseau de transport de Longueuil",
+      "region": "",
+      "sector": "Construction",
       "deadline": "2026-11-05",
       "url": ""
     },
@@ -3968,6 +3005,42 @@
       "buyer": "Ville de Québec",
       "region": "",
       "sector": "Construction",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20175469",
+      "title": "Service de location de conteneurs et de transport de résidus des dégrilleurs, dessableurs et décanteurs",
+      "buyer": "Ville de Granby",
+      "region": "",
+      "sector": "Services",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20175667",
+      "title": "Services professionnels en architecture - Agrandissement CURAL",
+      "buyer": "Université du Québec à Chicoutimi .",
+      "region": "",
+      "sector": "Services",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20175721",
+      "title": "Services professionnels en ingénierie - Agrandissement CURAL",
+      "buyer": "Université du Québec à Chicoutimi .",
+      "region": "",
+      "sector": "Services",
+      "deadline": "2026-11-05",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20175742",
+      "title": "Services professionnels de consultation - Programme d’aide aux employés (PAE) et interventions à la suite d'un évènement potentiellement traumatique",
+      "buyer": "Ville de Trois-Rivières",
+      "region": "",
+      "sector": "Services",
       "deadline": "2026-11-05",
       "url": ""
     },
@@ -4584,6 +3657,24 @@
       "url": ""
     },
     {
+      "id": "ocds-ec9k95-20171395",
+      "title": "Ventilation - HCM",
+      "buyer": "Casiloc inc",
+      "region": "",
+      "sector": "Autres",
+      "deadline": "2026-11-06",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20171412",
+      "title": "ÉLECTRICITÉ-ALARME-INCENDIE-TÉLÉCOMMUNICATION-SÉCURITÉ - HCM",
+      "buyer": "Casiloc inc",
+      "region": "",
+      "sector": "Électricité",
+      "deadline": "2026-11-06",
+      "url": ""
+    },
+    {
       "id": "ocds-ec9k95-20171837",
       "title": "PROTECTION INCENDIE - HCM",
       "buyer": "Casiloc inc",
@@ -4616,6 +3707,15 @@
       "buyer": "Ville de Saint-Hyacinthe .",
       "region": "",
       "sector": "Autres",
+      "deadline": "2026-11-06",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20174282",
+      "title": "Construction de la nouvelle piste cyclable SPIPB (secteur est)",
+      "buyer": "Société du Parc Industriel et Portuaire de Bécancour.",
+      "region": "",
+      "sector": "Construction",
       "deadline": "2026-11-06",
       "url": ""
     },
@@ -5682,6 +4782,15 @@
       "url": ""
     },
     {
+      "id": "ocds-ec9k95-20172975",
+      "title": "Services professionnels en gestion de projets",
+      "buyer": "Université Concordia",
+      "region": "",
+      "sector": "Services",
+      "deadline": "2026-11-10",
+      "url": ""
+    },
+    {
       "id": "ocds-ec9k95-20173173",
       "title": "Acquisition et implantation d’une solution infonuagique de revue et d’analyse de la preuve électronique et de soutien aux litiges",
       "buyer": "Autorité des marchés financiers.",
@@ -6186,6 +5295,15 @@
       "url": ""
     },
     {
+      "id": "ocds-ec9k95-20141478",
+      "title": "Ameublement administratif",
+      "buyer": "Centre d'acquisitions gouvernementales",
+      "region": "",
+      "sector": "Autres",
+      "deadline": "2026-11-11",
+      "url": ""
+    },
+    {
       "id": "ocds-ec9k95-20172186",
       "title": "Acquisition de systèmes de points de  vente pour les succursales de la SAQ",
       "buyer": "Société des alcools du Québec",
@@ -6474,6 +5592,15 @@
       "url": ""
     },
     {
+      "id": "ocds-ec9k95-20169477",
+      "title": "Travaux correctifs à l'usine de biométhanisation",
+      "buyer": "Régie d'assainissement des Eaux de la Vallée du Richelieu",
+      "region": "",
+      "sector": "Construction",
+      "deadline": "2026-11-12",
+      "url": ""
+    },
+    {
       "id": "ocds-ec9k95-20169530",
       "title": "Travaux de sécurisation du périmètre au 2800, boulevard Saint-Martin Ouest, Laval (Québec) H7T 2S9",
       "buyer": "SQI-Direction immobilière de Laval, des Laurentides et de Lanaudière",
@@ -6756,6 +5883,15 @@
       "id": "ocds-ec9k95-20157115",
       "title": "Système vidéo pour laparoscopie chirurgicale",
       "buyer": "Santé Québec Mauricie-et-Centre-du-Québec – Universitaire",
+      "region": "",
+      "sector": "Autres",
+      "deadline": "2026-11-12",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20170490",
+      "title": "Acquisition de visserie diverses",
+      "buyer": "Société de transport de Montréal",
       "region": "",
       "sector": "Autres",
       "deadline": "2026-11-12",
@@ -8373,6 +7509,24 @@
       "url": ""
     },
     {
+      "id": "ocds-ec9k95-20162614",
+      "title": "Analyseurs d'hémocultures",
+      "buyer": "Santé Québec Mauricie-et-Centre-du-Québec – Universitaire",
+      "region": "",
+      "sector": "Autres",
+      "deadline": "2026-11-19",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20163460",
+      "title": "Travaux de réfection de la chaufferie du Pavillon J",
+      "buyer": "Cégep Vanier College.",
+      "region": "",
+      "sector": "Construction",
+      "deadline": "2026-11-19",
+      "url": ""
+    },
+    {
       "id": "ocds-ec9k95-20166830",
       "title": "Agrandissement et réaménagement – Hôpital de Mont-Laurier - 2561, chemin de la Lièvre, Mont-Laurier (Québec) J9L 3G3",
       "buyer": "Société québécoise des infrastructures",
@@ -8387,6 +7541,15 @@
       "buyer": "Ville de Montréal - Service de l'Eau",
       "region": "",
       "sector": "Construction",
+      "deadline": "2026-11-19",
+      "url": ""
+    },
+    {
+      "id": "ocds-ec9k95-20173908",
+      "title": "Renouvellement du parc d’équipement en électrocardiographie pour tous les sites",
+      "buyer": "Santé Québec - Centre universitaire de santé McGill",
+      "region": "",
+      "sector": "Autres",
       "deadline": "2026-11-19",
       "url": ""
     },
